@@ -50,7 +50,7 @@ b1.place(x=220,y=65)
 
 
 # Adding the background
-img=PhotoImage(file='hello.png')
+img=PhotoImage(file='yourfilehere.png')
 photo=Label( image=img)
 photo.pack()
 
